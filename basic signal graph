@@ -51,4 +51,4 @@ subplot(326);
 stem(n,u);grid on;
 title('exponential function');
 xlabel('time');
-ylabel('magnirude');
+ylabel('magnitude');
