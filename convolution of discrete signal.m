@@ -17,7 +17,7 @@ for i=1:k;
         p=i-j+1;
         if ((p>0)&&(p<m+1));
             y(1,i)=y(1,i)+x(1,j)*h(1,p);
-        end;
+        end
     end
 end
 subplot(221);
